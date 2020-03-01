@@ -1,5 +1,3 @@
-package FindDigits;
-
 import java.util.Scanner;
 
 public class FindDigits {

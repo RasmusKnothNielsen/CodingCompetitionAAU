@@ -1,5 +1,3 @@
-package Kangaroo;
-
 import java.util.Scanner;
 
 public class Kangaroo {

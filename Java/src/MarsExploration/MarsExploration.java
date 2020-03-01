@@ -1,5 +1,3 @@
-package MarsExploration;
-
 import java.io.*;
 
 public class MarsExploration {

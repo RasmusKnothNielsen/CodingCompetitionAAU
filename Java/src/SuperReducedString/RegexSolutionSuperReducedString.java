@@ -1,5 +1,3 @@
-package SuperReducedString;
-
 import java.util.Scanner;
 
 public class RegexSolutionSuperReducedString {
